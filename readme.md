@@ -1,4 +1,4 @@
-![Pathfinder Logo](logo.png)
+![Pathfinder Logo](https://raw.githubusercontent.com/Wobblyyyy/Pathfinder/master/logo.png)
 Odometry-dependent library for robotics-based competitions and challenges.
 Click right [here](https://wobblyyyy.github.io/Pathfinder/) to get to the online documentation!
 Or, go right to the JavaDocs with the following links.
